@@ -6,6 +6,7 @@ In the figurative sense we wanted to get more usecases for our Data Science team
 People would be more comfortable with ML and therefore open for new methods. 
 
 The Colab Notebook can be found [here][1]
+The instructions for the Colab Notebook are explained in the notebook itself.
 
 The corresponding Python file can be found [here][2]
 
