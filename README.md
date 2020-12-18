@@ -1,6 +1,6 @@
 # ML_bundesliga_challange
 
-This is a challange for 4flow, which I implemented in order to creata awareness of co-workers and students to ML-Tools.
+This is a challange for 4flow, which I implemented in order to create awareness of co-workers and students to ML-Tools.
 The main Goal was to bring ML closer to people so they would get a minor understanding of what these tools are capble of. 
 In the figurative sense we wanted to get more usecases for our Data Science team. 
 People would be more comfortable with ML and therefore open for new methods. 
