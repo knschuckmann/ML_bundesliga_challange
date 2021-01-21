@@ -11,5 +11,5 @@ The instructions for the Colab Notebook are explained in the notebook itself.
 
 The corresponding Python file can be found [here][2]
 
-[1]: https://github.com/knschuckmann/4flow_bundesliga/blob/master/4flow_challenge.ipynb
-[2]: https://github.com/knschuckmann/4flow_bundesliga/blob/master/4flow_challenge.py
+[1]: https://github.com/knschuckmann/4flow_bundesliga/blob/master/ML_workshop_bundesliga.ipynb
+[2]: https://github.com/knschuckmann/4flow_bundesliga/blob/master/ML_workshop_bundesliga.py
